@@ -11,12 +11,12 @@
 
 * [Your own adventure web](https://www.youtube.com/watch?v=vatY9oDLk1A)
 * Robin Berjon
-* [Manifesto](extensiblewebmanifesto.org)
+* [Manifesto](http://extensiblewebmanifesto.org)
 * Use HTMLElement
 	* With HTML5 <template>
 	* Natutal elements (for example <big-red-button>)
 	* Not working in production now
-* [HitchJS](www.hitchjs.com)
+* [HitchJS](http://www.hitchjs.com)
 	* CSS selector
 	* Make the css react to the content
 
@@ -27,7 +27,7 @@
 * CEO of clever cloud
 * Lot of shit in node.js callback
 * Future and Promise is cool
-* [Pacta](github.com/mudge/pacta)
+* [Pacta](http://github.com/mudge/pacta)
 
 ## 11:00
 
@@ -59,8 +59,8 @@
 ## 14:30
 * Rational Security
 * Olivier Lacan
-* Share password in a team [Meldium](www.meldium.com)
-* [TrueCrypt](www.truecrypt.org)
+* Share password in a team [Meldium](http://www.meldium.com)
+* [TrueCrypt](http://www.truecrypt.org)
 * EFF guide 
 
 ## 15:00
