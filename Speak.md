@@ -46,6 +46,7 @@
 
 * [Your customer WANTS to pay for your testing budget!](http://www.youtube.com/watch?v=fxe2pH0cTXc)
 * Andre JAY Meissner
+* [Slides](https://speakerdeck.com/klickass/your-customers-want-to-pay-your-testing-budget)
 * [Open device lab](http://opendevicelab.com/)
 
 ## 12:30
@@ -59,6 +60,7 @@
 ## 14:30
 * Rational Security
 * Olivier Lacan
+* [Slides](https://speakerdeck.com/olivierlacan/rational-security)
 * Share password in a team [Meldium](http://www.meldium.com)
 * [TrueCrypt](http://www.truecrypt.org)
 * EFF guide 
@@ -66,6 +68,7 @@
 ## 15:00
 * OWASP Top 10
 * Tobias Zander
+* [Slides](http://fr.slideshare.net/TobiasZander/owasp-top-10-at-take-off-conference-2014)
 * SQL Injection => Prepared Statement
 * OWASP Cheat Sheet
 * XSS - Escape engine
@@ -80,6 +83,7 @@
 ## 16:30
 * Next Level: DevOps
 * Ole Michaelis
+* [Slides](https://speakerdeck.com/nesquick/next-level-devops-2)
 * "First Rules - Keep Calm, it could be worst"
 
 ## 17:00
@@ -96,3 +100,4 @@
 ## 18:00
 * Payment revisited: Marketplaces, micro-merchants and mobile acceptance.
 * Gregory Estrade
+* Online payment with physical device
