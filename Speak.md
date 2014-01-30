@@ -50,7 +50,7 @@
 
 ## 12:30
 
-* How We Built Windows Azure
+* [How We Built Windows Azure](http://www.youtube.com/watch?v=JIi0PY1FGQc)
 * Benjamin Guinebertiere
 * Windows OS for Datacenter
 
