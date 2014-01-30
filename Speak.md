@@ -22,7 +22,7 @@
 
 ## 10:00
 
-* Use Promise, Future and some functional programing stuff without being a math nerd.
+* [Use Promise, Future and some functional programing stuff without being a math nerd.](https://www.youtube.com/watch?v=2OjHNe9Akaw)
 * Quentin Adam
 * CEO of clever cloud
 * Lot of shit in node.js callback
@@ -31,7 +31,7 @@
 
 ## 11:00
 
-* The web is inefficient, but we can fix it!
+* [The web is inefficient, but we can fix it!](http://www.youtube.com/watch?v=6lsepOuIvb0)
 * Justin Secor
 * Web is massive suck => Using too much electricity
 
