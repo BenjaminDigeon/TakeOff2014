@@ -37,14 +37,14 @@
 
 ## 11:30
 
-* Open Source Improv
+* [Open Source Improv](http://www.youtube.com/watch?v=q2twTAYiHRA)
 * Haleigh Sheehan
 * Not a develloper
 * Open source in general
 
 ## 12:00
 
-* Your customer WANTS to pay for your testing budget!
+* [Your customer WANTS to pay for your testing budget!](http://www.youtube.com/watch?v=fxe2pH0cTXc)
 * Andre JAY Meissner
 * [Open device lab](http://opendevicelab.com/)
 
@@ -73,19 +73,25 @@
 
 ## 15:30
 * All your base are belong to us, what the bad guys see
-* Danny Dinneen 
+* Danny Dinneen
+* Getting informations
+* Cool examples :)
 
 ## 16:30
 * Next Level: DevOps
 * Ole Michaelis
+* "First Rules - Keep Calm, it could be worst"
 
 ## 17:00
 * Datacenter As A Computer: Beyond Clouds
 * Maxime Brugidou
+* Criteo
 
 ## 17:30
 * print("3D");
 * Orlando Kalossakas
+* Mailjet
+* 3D printing
 
 ## 18:00
 * Payment revisited: Marketplaces, micro-merchants and mobile acceptance.
