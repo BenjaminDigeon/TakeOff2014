@@ -222,6 +222,9 @@
 
 * CSS and the critical path
 * Patrick Hamann
+* Size increase and page load faster
+* Save time for augment profit
+* [Basket.js](http://addyosmani.github.io/basket.js)
 
 # Other talks
 
