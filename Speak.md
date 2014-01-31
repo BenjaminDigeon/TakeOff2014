@@ -208,17 +208,20 @@
 * "Create an available, scalable search index"
 * Welcome to NoSQL world
 * [Deprecator source code](https://github.com/sideshowcoder/deprecator)
-* Migrate data {up,down} "on the fly"
+* Migrate data {up,down} on the fly
 
 ## 16:30
 
-* CSS and the critical path
-* Patrick Hamann
-
-## 17:00
-
 * Frontend At The Engineering Level
 * Paul Rouget
+* Mozilla
+* How a browser work
+* Page load
+
+## 17:30
+
+* CSS and the critical path
+* Patrick Hamann
 
 # Other talks
 
@@ -261,6 +264,7 @@
 
 * Graphs with Backbone, Rickshaw & D3
 * Richard Powell
+* [Slides](http://fr.slideshare.net/byrichardpowell/timeseries-monitoring-graphs-with-d3-rickshaw)
 
 ## Day2 - 15:30
 
