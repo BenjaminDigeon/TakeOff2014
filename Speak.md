@@ -207,6 +207,7 @@
 * Philipp Fehre
 * "Create an available, scalable search index"
 * Welcome to NoSQL world
+* [Deprecator source code](https://github.com/sideshowcoder/deprecator)
 * Migrate data {up,down} "on the fly"
 
 ## 16:30
@@ -221,29 +222,47 @@
 
 # Other talks
 
+## Day1 - 14:30
+
 * The web: from space to time
 * Julien Genestoux
+
+## Day1 - 15:00
 
 * Zen and the art of Hypermedia design
 * Ori Pekelman
 
+## Day1 - 15:30
+
 * Designing Maintainable, Production-Ready Client Libraries
 * Kevin Burke
+
+## Day1 - 16:30
 
 * Industrial Javascript
 * Matthieu Lux
 
+## Day1 - 17:00
+
 * Patterns of Large-Scale JavaScript Development
 * Kim Joar Bekkelund
+
+## Day1 - 17:30
 
 * Ember.js : lessons from the trenches
 * Regis Hanol
 
+## Day1 - 18:00
+
 * Building a tiny AngularJS
 * Tim Ruffles
 
+## Day2 - 15:00
+
 * Graphs with Backbone, Rickshaw & D3
 * Richard Powell
+
+## Day2 - 15:30
 
 * Protocols for the internet of the things
 * Vidhya Gholkar
