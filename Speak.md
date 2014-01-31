@@ -11,6 +11,7 @@
 
 * [Your own adventure web](https://www.youtube.com/watch?v=vatY9oDLk1A)
 * Robin Berjon
+* [Slides](http://berjon.com/presentations/20140130-own-adventure-web-takeoff/#/)
 * [Manifesto](http://extensiblewebmanifesto.org)
 * Use HTMLElement
 	* With HTML5 <template>
@@ -125,6 +126,11 @@
 
 * The Bizarre App Experiments
 * Luca Sale
+* Blackberry team
+* QT
+* Heart monitor who control the speed of the music
+* NFC for track performance
+* [Code Source](https://github.com/doturner/BizarreExperiments)
 
 ## 11:00
 
