@@ -207,7 +207,7 @@
 * Philipp Fehre
 * "Create an available, scalable search index"
 * Welcome to NoSQL world
-
+* Migrate data {up,down} "on the fly"
 
 ## 16:30
 
@@ -219,3 +219,31 @@
 * Frontend At The Engineering Level
 * Paul Rouget
 
+# Other talks
+
+* The web: from space to time
+* Julien Genestoux
+
+* Zen and the art of Hypermedia design
+* Ori Pekelman
+
+* Designing Maintainable, Production-Ready Client Libraries
+* Kevin Burke
+
+* Industrial Javascript
+* Matthieu Lux
+
+* Patterns of Large-Scale JavaScript Development
+* Kim Joar Bekkelund
+
+* Ember.js : lessons from the trenches
+* Regis Hanol
+
+* Building a tiny AngularJS
+* Tim Ruffles
+
+* Graphs with Backbone, Rickshaw & D3
+* Richard Powell
+
+* Protocols for the internet of the things
+* Vidhya Gholkar
