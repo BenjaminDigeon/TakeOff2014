@@ -86,27 +86,27 @@
 
 ## 16:30
 
-* Next Level: DevOps
+* [Next Level: DevOps](http://www.youtube.com/watch?v=AvUzov1_VCI)
 * Ole Michaelis
 * [Slides](https://speakerdeck.com/nesquick/next-level-devops-2)
 * "First Rules - Keep Calm, it could be worst"
 
 ## 17:00
 
-* Datacenter As A Computer: Beyond Clouds
+* [Datacenter As A Computer: Beyond Clouds](http://www.youtube.com/watch?v=TJOotcJMg6Y)
 * Maxime Brugidou
 * Criteo
 
 ## 17:30
 
-* print("3D");
+* [print("3D");](http://www.youtube.com/watch?v=OCJXBdfuqdQ)
 * Orlando Kalossakas
 * Mailjet
 * 3D printing
 
 ## 18:00
 
-* Payment revisited: Marketplaces, micro-merchants and mobile acceptance.
+* [Payment revisited: Marketplaces, micro-merchants and mobile acceptance.](http://www.youtube.com/watch?v=5o4LSjDI-rQ)
 * Gregory Estrade
 * Online payment with physical device
 
@@ -136,11 +136,17 @@
 
 * Developping Developers
 * Paul Verbeek
+* @Hierow
+* Find devellopers 
+* Self-learning
+* [What Makes a Good Coach?](http://sportsmedicine.about.com/od/tipsandtricks/a/qualitycoach.htm)
+* HTML5
 
 ## 11:30
 
 * Is IT really global
 * Jean-Pierre Coene
+* Culture is a trap
 
 ## 12:00
 
