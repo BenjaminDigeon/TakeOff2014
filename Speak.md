@@ -58,6 +58,7 @@
 # Day1 Afernoon
 
 ## 14:30
+
 * Rational Security
 * Olivier Lacan
 * [Slides](https://speakerdeck.com/olivierlacan/rational-security)
@@ -66,6 +67,7 @@
 * EFF guide 
 
 ## 15:00
+
 * OWASP Top 10
 * Tobias Zander
 * [Slides](http://fr.slideshare.net/TobiasZander/owasp-top-10-at-take-off-conference-2014)
@@ -75,29 +77,71 @@
 * Keep librairies up-to-date
 
 ## 15:30
+
 * All your base are belong to us, what the bad guys see
 * Danny Dinneen
 * Getting informations
 * Cool examples :)
 
 ## 16:30
+
 * Next Level: DevOps
 * Ole Michaelis
 * [Slides](https://speakerdeck.com/nesquick/next-level-devops-2)
 * "First Rules - Keep Calm, it could be worst"
 
 ## 17:00
+
 * Datacenter As A Computer: Beyond Clouds
 * Maxime Brugidou
 * Criteo
 
 ## 17:30
+
 * print("3D");
 * Orlando Kalossakas
 * Mailjet
 * 3D printing
 
 ## 18:00
+
 * Payment revisited: Marketplaces, micro-merchants and mobile acceptance.
 * Gregory Estrade
 * Online payment with physical device
+
+# Day2 Morning
+
+## 9:00
+
+* So Easy a Child Could Do It: Designing Apps for Little Fingers
+* Kathryn Rotondo
+
+## 9:30
+
+* Singing Gophers
+* Francesc Compoy Flores
+
+## 10:00
+
+* The Bizarre App Experiments
+* Luca Sale
+
+## 11:00
+
+* Developping Developers
+* Paul Verbeek
+
+## 11:30
+
+* Is IT really global
+* Jean-Pierre Coene
+
+## 12:00
+
+* Coding & Writing
+* Elie Chevignard
+
+## 12:30
+
+* Consulting zen
+* Neal Kemp
