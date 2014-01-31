@@ -172,6 +172,23 @@
 
 * I have a NoSQL toaster, why would I want a NoSQL database?
 * Matthew Revell
+* SQl vs NoSQL
+* Different uses
+* Language
+	* Buckets <=> Databases
+	* Documents <=> Tables
+	* View <=> Query
+* Document database
+	* JSON document representation
+	* [Couchbase](http://www.couchbase.com) => Great for dev, scales easily, fast
+	* [MongoDB](http://www.mongodb.org) => Easy to query but won't scale
+* Key Value database
+	* Distributed data stores
+	* [Riak](http://basho.com/riak) -> buckets and key-value pairs
+* Columnar database
+	* [Cassandra](http://cassandra.apache.org)
+* Graph database
+	* [Neo4j](http://www.neo4j.org)
 
 ## 15:00
 
