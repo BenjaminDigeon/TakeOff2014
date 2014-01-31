@@ -152,8 +152,17 @@
 
 * Coding & Writing
 * Elie Chevignard
+* Blogging
 
 ## 12:30
 
 * Consulting zen
 * Neal Kemp
+* Freelancer Rails/HTML/CSS
+* Finding clients
+* Dealing with clients
+* Managing time
+* [Trello](https://trello.com)
+* [Streak](http://www.streak.com)
+* [Harvest](http://www.getharvest.com)
+
