@@ -116,6 +116,7 @@
 
 * So Easy a Child Could Do It: Designing Apps for Little Fingers
 * Kathryn Rotondo
+* [Slides](http://fr.slideshare.net/krotondo/designing-appsforlittlefingers-takeoff-lille-slideshare)
 
 ## 9:30
 
@@ -137,6 +138,7 @@
 * Developping Developers
 * Paul Verbeek
 * @Hierow
+* [Slides](https://speakerdeck.com/pverbeek/developing-developers-takeoff-2014)
 * Find devellopers 
 * Self-learning
 * [What Makes a Good Coach?](http://sportsmedicine.about.com/od/tipsandtricks/a/qualitycoach.htm)
@@ -194,11 +196,18 @@
 
 * BigQuery
 * Gorner Martin
+* Google
+* [Dremel paper](http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/36632.pdf)
+* The Dremel white paper for dummies
+* [Google cloud platform](https://cloud.google.com)
 
 ## 15:30
 
 * You got schema in my JSON!
 * Philipp Fehre
+* "Create an available, scalable search index"
+* Welcome to NoSQL world
+
 
 ## 16:30
 
@@ -209,3 +218,4 @@
 
 * Frontend At The Engineering Level
 * Paul Rouget
+
