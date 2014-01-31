@@ -166,3 +166,29 @@
 * [Streak](http://www.streak.com)
 * [Harvest](http://www.getharvest.com)
 
+# Day2 Afernoon
+
+## 14:30
+
+* I have a NoSQL toaster, why would I want a NoSQL database?
+* Matthew Revell
+
+## 15:00
+
+* BigQuery
+* Gorner Martin
+
+## 15:30
+
+* You got schema in my JSON!
+* Philipp Fehre
+
+## 16:30
+
+* CSS and the critical path
+* Patrick Hamann
+
+## 17:00
+
+* Frontend At The Engineering Level
+* Paul Rouget
