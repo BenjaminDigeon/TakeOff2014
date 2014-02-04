@@ -230,17 +230,17 @@
 
 ## Day1 - 14:30
 
-* The web: from space to time
+* [The web: from space to time](http://www.youtube.com/watch?v=wodvEnWPjHs)
 * Julien Genestoux
 
 ## Day1 - 15:00
 
-* Zen and the art of Hypermedia design
+* [Zen and the art of Hypermedia design](http://www.youtube.com/watch?v=ZZxOaCP8vyg)
 * Ori Pekelman
 
 ## Day1 - 15:30
 
-* Designing Maintainable, Production-Ready Client Libraries
+* [Designing Maintainable, Production-Ready Client Libraries](http://www.youtube.com/watch?v=YuukBfskio4)
 * Kevin Burke
 
 ## Day1 - 16:30
