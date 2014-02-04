@@ -247,6 +247,7 @@
 
 * Industrial Javascript
 * Matthieu Lux
+* [Slides](http://swiip.github.io/industrial-javascript/#/)
 
 ## Day1 - 17:00
 
