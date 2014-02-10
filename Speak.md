@@ -114,18 +114,18 @@
 
 ## 9:00
 
-* So Easy a Child Could Do It: Designing Apps for Little Fingers
+* [So Easy a Child Could Do It: Designing Apps for Little Fingers](http://www.youtube.com/watch?v=LKUmgGztQ54)
 * Kathryn Rotondo
 * [Slides](http://fr.slideshare.net/krotondo/designing-appsforlittlefingers-takeoff-lille-slideshare)
 
 ## 9:30
 
-* Singing Gophers
+* [Singing Gophers](http://www.youtube.com/watch?v=wCHpytRfSL4)
 * Francesc Compoy Flores
 
 ## 10:00
 
-* The Bizarre App Experiments
+* [The Bizarre App Experiments](http://www.youtube.com/watch?v=LWwOE7hQ_uI)
 * Luca Sale
 * Blackberry team
 * QT
@@ -135,7 +135,7 @@
 
 ## 11:00
 
-* Developping Developers
+* [Developping Developers](http://www.youtube.com/watch?v=b475D-B0TM0)
 * Paul Verbeek
 * @Hierow
 * [Slides](https://speakerdeck.com/pverbeek/developing-developers-takeoff-2014)
@@ -146,19 +146,19 @@
 
 ## 11:30
 
-* Is IT really global
+* [Is IT really global](http://www.youtube.com/watch?v=61-rHPpUrLQ)
 * Jean-Pierre Coene
 * Culture is a trap
 
 ## 12:00
 
-* Coding & Writing
+* [Coding & Writing](http://www.youtube.com/watch?v=ghZIKEv3RNw)
 * Elie Chevignard
 * Blogging
 
 ## 12:30
 
-* Consulting zen
+* [Consulting zen](http://www.youtube.com/watch?v=ZUCl0PPAT9U)
 * Neal Kemp
 * Freelancer Rails/HTML/CSS
 * Finding clients
@@ -172,7 +172,7 @@
 
 ## 14:30
 
-* I have a NoSQL toaster, why would I want a NoSQL database?
+* [I have a NoSQL toaster, why would I want a NoSQL database?](http://www.youtube.com/watch?v=2vAfuHmbZYY)
 * Matthew Revell
 * SQl vs NoSQL
 * Different uses
@@ -194,7 +194,7 @@
 
 ## 15:00
 
-* BigQuery
+* [BigQuery](http://www.youtube.com/watch?v=3imOTWioBiQ)
 * Gorner Martin
 * Google
 * [Dremel paper](http://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/36632.pdf)
@@ -203,7 +203,7 @@
 
 ## 15:30
 
-* You got schema in my JSON!
+* [You got schema in my JSON!](http://www.youtube.com/watch?v=VPymiGtMwYw)
 * Philipp Fehre
 * "Create an available, scalable search index"
 * Welcome to NoSQL world
@@ -212,7 +212,7 @@
 
 ## 16:30
 
-* Frontend At The Engineering Level
+* [Frontend At The Engineering Level(1)](http://www.youtube.com/watch?v=enKJMUArlV4),[(2)](http://www.youtube.com/watch?v=Fdw9HMQ068M)
 * Paul Rouget
 * Mozilla
 * How a browser work
@@ -220,7 +220,7 @@
 
 ## 17:30
 
-* CSS and the critical path
+* [CSS and the critical path](http://www.youtube.com/watch?v=-W0FBNbMLs0)
 * Patrick Hamann
 * Size increase and page load faster
 * Save time for augment profit
